@@ -1,0 +1,51 @@
+// Display Flex 
+
+.d-flex-cen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.d-flex-col-cen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.d-flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+//Positions
+
+.p-relative {
+    position: relative;
+}
+
+.p-absolute {
+    position: absolute;
+}
+
+
+.text-cen {
+    text-align: center;
+}
+
+
+.align {
+    align-items: center;
+}
+
+.justify {
+    justify-content: center;
+}
